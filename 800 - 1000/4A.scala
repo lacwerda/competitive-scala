@@ -1,3 +1,7 @@
+/** This problem is rated as 800 in Codeforces.
+ *  https://codeforces.com/problemset/problem/4/A
+ */
+
 import scala.io.StdIn.readInt
 
 object Solve extends App {

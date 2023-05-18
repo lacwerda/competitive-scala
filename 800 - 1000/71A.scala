@@ -1,3 +1,7 @@
+/** This problem is rated as 800 in Codeforces.
+ *  https://codeforces.com/problemset/problem/71/A
+ */
+
 import scala.io.StdIn._
 
 object Solve extends App {
