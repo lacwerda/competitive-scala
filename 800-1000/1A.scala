@@ -1,4 +1,4 @@
-/** This problem is rated as 800 in Codeforces.
+/** This problem is rated as 1000 in Codeforces.
  *  https://codeforces.com/problemset/problem/1/A
  */
 

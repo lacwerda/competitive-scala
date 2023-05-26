@@ -30,7 +30,10 @@ object Solve extends App {
 The problems are all highly based on recursion, since Scala is a functional language and performs much better with recursion than for loops, for example. The following list displays problems and its classifications based on content.
 
 Problems classified by topic:
-* Dynamic Programming
-  * duda
-* Greedy
-  * duda
+* Math
+  * [1A](800-1000/1A.scala)
+  * [4A](800-1000/4A.scala)
+* Brute Force
+  * [4A](800-1000/4A.scala)
+* Strings
+  * [71A](800-1000/71A.scala)
